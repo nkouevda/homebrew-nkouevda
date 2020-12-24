@@ -2,7 +2,7 @@ class EstimatedTaxes < Formula
   include Language::Python::Virtualenv
 
   desc "Estimated taxes calculator"
-  homepage "https://pypi.org/project/estimated-taxes/"
+  homepage "https://github.com/nkouevda/estimated-taxes"
   url "https://github.com/nkouevda/estimated-taxes/archive/v1.0.6.tar.gz"
   sha256 "161f7cbda754c7fdedc78bf371d2b3cc568027c61e6d6e7dee6d6c81e0190326"
   license "MIT"

@@ -2,7 +2,7 @@ class Albumr < Formula
   include Language::Python::Virtualenv
 
   desc "Imgur album downloader"
-  homepage "https://pypi.org/project/albumr/"
+  homepage "https://github.com/nkouevda/albumr"
   url "https://github.com/nkouevda/albumr/archive/v1.0.9.tar.gz"
   sha256 "04719701a0d0ea776142bf4f98536b0e3bff1459433dbc155dba2855f75b6b58"
   license "MIT"
