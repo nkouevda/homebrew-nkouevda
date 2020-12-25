@@ -3,8 +3,8 @@ class EstimatedTaxes < Formula
 
   desc "Estimated taxes calculator"
   homepage "https://github.com/nkouevda/estimated-taxes"
-  url "https://github.com/nkouevda/estimated-taxes/archive/v1.0.7.tar.gz"
-  sha256 "1a39d579094f3fdba1e0d015ff3257b85fd1270f6906761f6c546ae933275021"
+  url "https://github.com/nkouevda/estimated-taxes/archive/v1.0.8.tar.gz"
+  sha256 "cb4ebaf63f7f5bab421012902f621bfa20a56d8e6ff40e23544eadac7c714262"
   license "MIT"
 
   depends_on "python"
