@@ -3,16 +3,11 @@ class CapitalGains < Formula
 
   desc "Capital gains calculator"
   homepage "https://github.com/nkouevda/capital-gains"
-  url "https://github.com/nkouevda/capital-gains/archive/v1.0.6.tar.gz"
-  sha256 "8429677ee880bcc2894c95dd86c107785860eef022d07523b5d82fe5286af673"
+  url "https://github.com/nkouevda/capital-gains/archive/v1.0.7.tar.gz"
+  sha256 "7a4311c3b66072378110ba89008d61af552c6c6503ab9c6ca5d02e247752f9c7"
   license "MIT"
 
   depends_on "python"
-
-  resource "argparse-extensions" do
-    url "https://files.pythonhosted.org/packages/c7/f5/3f2960d89b6d79486b1777246865475f5c6abaa12fea16c152085b966f8c/argparse-extensions-1.0.3.tar.gz"
-    sha256 "9297ebcb86133c7e359cb7639dbba80a58712797b1fdab974c75053f26b993a7"
-  end
 
   def install
     virtualenv_install_with_resources
