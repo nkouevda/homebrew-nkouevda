@@ -3,8 +3,8 @@ class Pdiff < Formula
 
   desc "Pretty side-by-side diff"
   homepage "https://github.com/nkouevda/pdiff"
-  url "https://github.com/nkouevda/pdiff/archive/v1.0.8.tar.gz"
-  sha256 "2b35494e1cd8548c755bfcb9dd8be9049cbcdaf181d7722558f7f0eb4aeb333d"
+  url "https://github.com/nkouevda/pdiff/archive/v1.1.0.tar.gz"
+  sha256 "7a76667b5cd596e57a0c3a259c6f89c2e3e0354bca588dc3421d7b16267c7f21"
   license "MIT"
 
   depends_on "python"
