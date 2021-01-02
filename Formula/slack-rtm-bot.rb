@@ -3,8 +3,8 @@ class SlackRtmBot < Formula
 
   desc "Slack RTM bot"
   homepage "https://github.com/nkouevda/slack-rtm-bot"
-  url "https://github.com/nkouevda/slack-rtm-bot/archive/v1.0.8.tar.gz"
-  sha256 "f4b4207415f37bb8350114b78f1db1705120c8869f8b354ad45a4ff6b903449b"
+  url "https://github.com/nkouevda/slack-rtm-bot/archive/v1.0.9.tar.gz"
+  sha256 "143e743cec0e7f0ee97155a87cd7a13c8a02c2d2efe1b5f53b9e80310b7f25fb"
   license "MIT"
 
   depends_on "python"
