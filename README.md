@@ -22,6 +22,10 @@ My [homebrew tap](https://docs.brew.sh/Taps).
 
     brew install nkouevda/nkouevda/pdiff
 
+### [slack-rtm-bot](https://github.com/nkouevda/slack-rtm-bot)
+
+    brew install nkouevda/nkouevda/slack-rtm-bot
+
 ### [spongecase](https://github.com/nkouevda/spongecase)
 
     brew install nkouevda/nkouevda/spongecase
