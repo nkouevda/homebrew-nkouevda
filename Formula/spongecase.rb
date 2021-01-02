@@ -3,8 +3,8 @@ class Spongecase < Formula
 
   desc "Convert text to Spongebob case"
   homepage "https://github.com/nkouevda/spongecase"
-  url "https://github.com/nkouevda/spongecase/archive/v1.0.1.tar.gz"
-  sha256 "8cfe08fe0eef80db0feadaea459bbfd59295d18a0e0be192b4c3703bce1274b6"
+  url "https://github.com/nkouevda/spongecase/archive/v1.0.2.tar.gz"
+  sha256 "d9ee3345264c65bb90f4f6bb759b418044a8cf65e514ededa9d7e4bf86bad130"
   license "MIT"
 
   depends_on "python"
