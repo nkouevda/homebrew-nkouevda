@@ -3,15 +3,15 @@ class Pdiff < Formula
 
   desc "Pretty side-by-side diff"
   homepage "https://github.com/nkouevda/pdiff"
-  url "https://github.com/nkouevda/pdiff/archive/v1.1.2.tar.gz"
-  sha256 "9d45419b5393d47195bdea4ec0755ad3dd1019919dad2142502867601c257160"
+  url "https://github.com/nkouevda/pdiff/archive/v1.1.3.tar.gz"
+  sha256 "d6437d831a6757fc0de4f2b37edec43d82c0d5ea32f781a3ba6b6f73e2444a20"
   license "MIT"
 
   depends_on "python"
 
   resource "colorama" do
-    url "https://files.pythonhosted.org/packages/1f/bb/5d3246097ab77fa083a61bd8d3d527b7ae063c7d8e8671b1cf8c4ec10cbe/colorama-0.4.4.tar.gz"
-    sha256 "5941b2b48a20143d2267e95b1c2a7603ce057ee39fd88e7329b0c292aa16869b"
+    url "https://files.pythonhosted.org/packages/d8/53/6f443c9a4a8358a93a6792e2acffb9d9d5cb0a5cfd8802644b7b1c9a02e4/colorama-0.4.6.tar.gz"
+    sha256 "08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44"
   end
 
   def install
